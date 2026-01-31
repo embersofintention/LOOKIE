@@ -1,0 +1,16 @@
+name: Notify LOOKIESITE when LOOKIES changes
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger LOOKIESITE update
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_FOR_SUBMODULE_UPDATES }}
+          repository: embersofintention/LOOKIESITE
+          event-type: lookie-updated
