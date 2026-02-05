@@ -1,4 +1,4 @@
-name: Notify LOOKIESITE when LOOKIES changes
+name: Notify LOOKIESITE when LOOKIE changes
 
 on:
   push:
