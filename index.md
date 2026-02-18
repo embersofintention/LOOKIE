@@ -10,4 +10,6 @@ testing stuff is in fact sexy and cool
 
 ![[ralien sticker weirdface.png]]
 
-![[2601 - inq pc fix anim.gif]]
+![[inq keyboard slap.gif]]
+
+:D
