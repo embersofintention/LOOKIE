@@ -1,10 +1,13 @@
 
 
 
-# NUGST TIME
+# O HELLO LET'S TEST STUFF OK
+testing stuff is in fact sexy and cool
 
 
-![NUGGST](NUGGST.png)
+
 
 
 ![[ralien sticker weirdface.png]]
+
+![[2601 - inq pc fix anim.gif]]
