@@ -1,11 +1,10 @@
 
 
 
-# Look at this guy
-his name is Nuggst, and you love him
+# NUGST TIME
 
 
 ![NUGGST](NUGGST.png)
 
 
-this is me adding some nonsense so it'll update maybe
+![[ralien sticker weirdface.png]]
