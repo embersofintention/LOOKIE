@@ -9,7 +9,7 @@ testing stuff is in fact sexy and cool
 
 
 ![[ralien sticker weirdface.png]]
-Here's an image
+Here's an image, and i honestly do not know why shit keeps breaking :/
 
 ![[zu shitshow thingie.png]]
 
