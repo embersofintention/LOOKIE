@@ -17,11 +17,7 @@ that apply regardless of sync method
 
 
 ---
-
-
-
 ## Testing methods of linking to stuff
-
 
 ---
 
