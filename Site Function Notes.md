@@ -17,20 +17,32 @@ that apply regardless of sync method
 
 
 ---
-## Testing methods of linking to stuff
+# Testing methods of embedding stuff
 
 ---
 
-![[ralien sticker weirdface.png]] -- "shortest link when possible"
+## Images
+I dragged and dropped each of these from the "attachments" folder in the vault, right here within obsidian.  Each was done (and synced to the site) when the vault's settings were set to use its type of link.  
+
+![[ralien sticker weirdface.png]] 
+-- This one uses "shortest link when possible" 
 
 
 ---
 
 
-![[attachments/ralien sticker weirdface.png]] -- "from vault folder"
-[[Site Function Notes]]
-**Neither of these seem to work** so it seems we need to use "path from shortest link possible"
+![[attachments/ralien sticker weirdface.png]] 
+This one uses -- "from vault folder"
 
+**This one doesn't seem to work** so it seems we need to use "path from shortest link possible"
+
+---
+
+
+## Links
+trying to test this now...
+
+[[index]]
 
 
 
