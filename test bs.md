@@ -1,0 +1,1 @@
+![[nug angst sticker.png]]

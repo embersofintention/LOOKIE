@@ -48,8 +48,10 @@ trying to test this now...
 		* except the *images* work, which is odd.  
 		* Though I have to rename them in obsidian before they do, or they render broken. 
 	* Thing to Try:  Make a page. Rename it. Sync.  
-		* [[Test bs]]
-		* ^ linked without renaming
+		* [[test bs]]
+		* ^ linked without renaming. Doesn't work. 
+		* now I'mma rename it something and try again..
+		* [[test bs]]   -- it auto updated my previous link, but I draggydropped it again just in case there's a difference.  
 
 
 
