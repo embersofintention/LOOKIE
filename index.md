@@ -9,7 +9,8 @@ testing stuff is in fact sexy and cool
 
 
 ![[ralien sticker weirdface.png]]
+Here's an image
 
-![[inq keyboard slap.gif]]
+![[zu shitshow thingie.png]]
 
 :D
