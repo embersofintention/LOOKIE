@@ -43,6 +43,7 @@ This one uses -- "from vault folder"
 trying to test this now...
 
 [[index]]
+* as of 3:53pm on 2/19/26, this doesn't do anything when you click it.  Boo.  
 
 
 
