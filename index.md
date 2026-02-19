@@ -11,21 +11,10 @@ and while testing, here's a link to my notes on making stuff not break:
 
 
 
-## Testing methods of linking to stuff
 
 
----
-
-![[ralien sticker weirdface.png]] -- "shortest link when possible"
 
 ---
-
-
-![[attachments/ralien sticker weirdface.png]] -- "from vault folder"
-[[Site Function Notes]]
-
----
-
 
 
 

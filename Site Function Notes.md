@@ -16,17 +16,44 @@ that apply regardless of sync method
 
 
 
+---
 
 
 
-
-
-
-
-
-
-
-
+## Testing methods of linking to stuff
 
 
 ---
+
+![[ralien sticker weirdface.png]] -- "shortest link when possible"
+
+
+---
+
+
+![[attachments/ralien sticker weirdface.png]] -- "from vault folder"
+[[Site Function Notes]]
+**Neither of these seem to work** so it seems we need to use "path from shortest link possible"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
