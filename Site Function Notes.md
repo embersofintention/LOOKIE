@@ -2,16 +2,34 @@
 
 
 
-# General Things
-that apply regardless of sync method
+# Highlights, key notes, major discoveries
+
+
+## Gitless Sync Will Not Work, Do Not Use!
+* Gitless Sync has a few game breaking issues that will make it NOT workable for this project.  (2/19/2026, 4:17pm)
+	* you cannot delete files or sync won't work
+	* links created on a page do not work on the synced thing
+	* if you rename a file, you wind up with both versions 
 
 
 
-# When using Gitless Sync to update Vault
+
+
+
+
+
+
+
+---
+
+quirks: When using Gitless Sync to update Vault
 
 * images don't seem to work unless I rename them in obsidian after adding them.  No idea why. 
 * site seems to appear broken for a minute or so after it updates, with the layout jumbled.  Refreshing after a minute seems to fix it though. 
 * sync seems to crash if any files are deleted from the vault.  I'll have to look into this. 
+
+**UPDATE** 2/19/2026, 4:17pm 
+* Gitless Sync has a few game breaking issues that will make it NOT workable for this project.  
 
 
 
@@ -22,7 +40,7 @@ that apply regardless of sync method
 ---
 
 ## Images
-I dragged and dropped each of these from the "attachments" folder in the vault, right here within obsidian.  Each was done (and synced to the site) when the vault's settings were set to use its type of link.  
+I dragged and dropped each of these from the "attachments" folder in the vault, right here within obsidian.  Each was done (and synced to the site) when the vault's settings were set to use its type of link.  (tested while using Gitless Sync)
 
 ![[ralien sticker weirdface.png]] 
 -- This one uses "shortest link when possible" 
@@ -39,7 +57,7 @@ This one uses -- "from vault folder"
 ---
 
 
-## Links
+## Why Do Links Not Work On Site?
 trying to test this now...
 
 [[index]]
@@ -52,6 +70,23 @@ trying to test this now...
 		* ^ linked without renaming. Doesn't work. 
 		* now I'mma rename it something and try again..
 		* [[test bs]]   -- it auto updated my previous link, but I draggydropped it again just in case there's a difference.  
+		* Interesting.. on site, BOTH versions actually show up
+	* **ISSUE FOUND:  it seems like either Gitless Sync or Kiln don't like when a file is renamed or deleted??
+		* it seems to be Gitless Sync, because this shows up in the vault repo that way too. :/
+	* **ISSUE FOUND**  I discovered that once synced, the links don't work as links within the Vault repo either.  So the issue is Gitless Sync.  
+
+### Testing:  Links in local vault don't do anything when synced (2/19/26, 4:28pm )
+
+* Thing to Try:  make a link by manually copying path... 
+	* as Obsidian URL  - obsidian://open?vault=LOOKIE&file=test%20bs -- 
+* Discovery:   Won't work! Here's why..
+	* links are created by putting the file name in double brackets. 
+	* if you put a path in the brackets, it'll think that's the file name
+
+CONCLUSION:  
+* since switching git sync methods will likely stir things up a bunch anyway, I'm not gonna worry about it. 
+* If it's still an issue using a different sync method, I'll revisit. 
+
 
 
 
