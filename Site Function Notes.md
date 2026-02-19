@@ -44,6 +44,12 @@ trying to test this now...
 
 [[index]]
 * as of 3:53pm on 2/19/26, this doesn't do anything when you click it.  Boo.  
+	* Theory:  possibly because Kiln generates the site from a submodule??
+		* except the *images* work, which is odd.  
+		* Though I have to rename them in obsidian before they do, or they render broken. 
+	* Thing to Try:  Make a page. Rename it. Sync.  
+		* [[Test bs]]
+		* ^ linked without renaming
 
 
 
