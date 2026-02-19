@@ -6,12 +6,34 @@ testing stuff is in fact sexy and cool
 
 and while testing, here's a link to my notes on making stuff not break: 
 [[Site Function Notes]]
+^ NOTE 2/19/2026, 3:31pm --  links don't seem to work on the resulting site???
+
+
+
+
+## Testing methods of linking to stuff
+
+
+---
+
+![[ralien sticker weirdface.png]] -- "shortest link when possible"
+
+---
+
+
+![[attachments/ralien sticker weirdface.png]] -- "from vault folder"
+[[Site Function Notes]]
+
+---
 
 
 
 
 
-![[ralien sticker weirdface.png]]
+
+
+
+
 Here's an image, and i honestly do not know why shit keeps breaking :/
 
 ![[zu aaa.png]]
