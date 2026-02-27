@@ -1,5 +1,19 @@
 ...or dysfunction notes more accurately 
 
+---
+# How It Basically Works
+
+* Content managed in Obsidian vault, LOOKIE (this)
+* Push to GitHub
+* Repo on Github fires off an Action that connects with the Site repo, LOOKIESITE; updates a submodule with most recent LOOKIE vault content
+* an Action in the LOOKIESITE repo uses Kiln, a static site generator, to create a website and post to GitHub Pages
+
+---
+
+
+
+
+
 
 
 # Highlights, key notes, major discoveries
@@ -10,6 +24,11 @@
 	* you cannot delete files or sync won't work
 	* links created on a page do not work on the synced thing
 	* if you rename a file, you wind up with both versions 
+
+### Do Not Rely on Github for Syncing Between Devices
+* otherwise local changes would get overwritten and that would be bad
+* For now, I can just use Syncthing...
+* Note:  I can worry about device syncing after everything else is working
 
 
 
@@ -88,8 +107,22 @@ CONCLUSION:
 * If it's still an issue using a different sync method, I'll revisit. 
 
 
+## Brainstorming:  Other methods to push to Github
+
+Important notes:
+* I will need to use a different thing to sync between desktop and mobile.  Github is ONLY for publishing to the web page thing.  
+	* Syncthing?
+* it will need to be able to PUSH ONLY, without pulling!!
+	* don't want local changes overwritten by what's on the site. 
+
+If I use Syncthing to keep my vault synced between mobile and desktop, maybe I can just find a way to have git commit and push my changes automatically from my pc..?
+* 
 
 
+### Trying GitSync -- 2/27/2026, 4:40pm
+I'm gonna try out this method:  https://viscouspotenti.al/posts/gitsync-all-devices-tutorial
+
+* I've made a branch on LOOKIESITE called "main backup 1" so that in case this breaks things, I can revert back to where it was before.  
 
 
 
