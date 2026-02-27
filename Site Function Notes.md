@@ -85,10 +85,10 @@ trying to test this now...
 		* except the *images* work, which is odd.  
 		* Though I have to rename them in obsidian before they do, or they render broken. 
 	* Thing to Try:  Make a page. Rename it. Sync.  
-		* [[test bs]]
+		* [[test 2-27-26 530pm]]
 		* ^ linked without renaming. Doesn't work. 
 		* now I'mma rename it something and try again..
-		* [[test bs]]   -- it auto updated my previous link, but I draggydropped it again just in case there's a difference.  
+		* [[test 2-27-26 530pm]]   -- it auto updated my previous link, but I draggydropped it again just in case there's a difference.  
 		* Interesting.. on site, BOTH versions actually show up
 	* **ISSUE FOUND:  it seems like either Gitless Sync or Kiln don't like when a file is renamed or deleted??
 		* it seems to be Gitless Sync, because this shows up in the vault repo that way too. :/
