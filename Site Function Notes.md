@@ -158,7 +158,16 @@ I'm gonna try out this method:  https://viscouspotenti.al/posts/gitsync-all-devi
 
 ### Theory 1:  Kiln may not know how to generate links between pages in a submodule
 *First, let's rule out that the issue was with our method of syncing to github... 
-* To do this, let's create a link (now that we're using that Git plugin instead of Gitless Sync), and see if it breaks on the site:   [[test 2-27-26 530pm]] 
+* Test: 
+	* To do this, let's create a link (now that we're using that Git plugin instead of Gitless Sync), and see if it breaks on the site:   [[test 2-27-26 530pm]] 
+* Results:  
+	* Link doesn't go anywhere still.  
+	* Also when you visit this page, there's a white bar on the bottom of the screen for some reason now and the scroll is borked?
+* Conclusions: 
+	* The issue with links is not from the sync method.  That's successfully ruled out.
+* Next Steps: 
+	* do another commit, and see if white bar weirdness issue resolves itself
+	* if not, try deleting that test link and try again
 
 
 
