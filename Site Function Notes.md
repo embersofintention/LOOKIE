@@ -19,12 +19,24 @@
 # Highlights, key notes, major discoveries
 
 
+# Syncing to Github:
+---
+
 ## Gitless Sync Will Not Work, Do Not Use!
 * Gitless Sync has a few game breaking issues that will make it NOT workable for this project.  (2/19/2026, 4:17pm)
 	* you cannot delete files or sync won't work
 	* links created on a page do not work on the synced thing
 	* if you rename a file, you wind up with both versions 
 
+## Git Plugin Works! (2/27/26, 5:42pm) 
+* None of the Gitless Sync issues are present.  Works much better for my purposes here.
+* I'll just have to **find a way to remotely trigger commits to the LOOKIE vault from my desktop, using mobile** so I can post stuff from my phone
+
+
+
+
+# Syncing between Devices:
+---
 ### Do Not Rely on Github for Syncing Between Devices
 * otherwise local changes would get overwritten and that would be bad
 * For now, I can just use Syncthing...
@@ -125,11 +137,28 @@ I'm gonna try out this method:  https://viscouspotenti.al/posts/gitsync-all-devi
 * I've made a branch on LOOKIESITE called "main backup 1" so that in case this breaks things, I can revert back to where it was before.  
 
 
+5:31pm 
+* reconnected the vault with Git and GitHub
+* did a commit from the terminal (I'm so proud of myself), using directions from here: https://obsidian-bloger.pages.dev/git-setup-for-obsidian/
+* ~~there's apparently a Pages outage though, so the deploy failed.  Gotta try again later. 
+* ~~In the meantime though, I can make sure the plugin works by committing the changes I made here, adding these notes
+* Update:  ran the action manually from github.com.  Worked!  Site generated just fine, AND no more duplicate note issue :D :D :D
+
+#### What I Learned: 
+* **perform github syncing with the Git plugin, it works without any of the issues I had with Gitless Sync
 
 
+**Next Issue to Troubleshoot:  having Kiln generate working links**
 
 
+## Troubleshooting Links on Kiln Site (2/27/2026, 5:47pm)
 
+### Issue: 
+* The links on generated site don't do anything
+
+### Theory 1:  Kiln may not know how to generate links between pages in a submodule
+*First, let's rule out that the issue was with our method of syncing to github... 
+* To do this, let's create a link (now that we're using that Git plugin instead of Gitless Sync), and see if it breaks on the site:   [[test 2-27-26 530pm]] 
 
 
 
