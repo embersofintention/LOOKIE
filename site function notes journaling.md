@@ -187,6 +187,8 @@ I'm gonna try out this method:  https://viscouspotenti.al/posts/gitsync-all-devi
 	* Sooo.. who knows.
 * Next:  
 	* paste content back onto Site Functions Notes page, and see if it breaks again
+* Results: 
+	* now THIS page has the issue????
 
 
 
