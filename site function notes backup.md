@@ -182,7 +182,11 @@ I'm gonna try out this method:  https://viscouspotenti.al/posts/gitsync-all-devi
 	4. ????
 	5. profit
 * Results: 
-	* 
+	* the content being directly copy-pasted onto this page work just fine, so it's not the length...
+	* Site Function Notes page doesn't have the white bar now though? 
+	* Sooo.. who knows.
+* Next:  
+	* paste content back onto Site Functions Notes page, and see if it breaks again
 
 
 
