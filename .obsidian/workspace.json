@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Site Function Notes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Site Function Notes"
+              "title": "index"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "12999c9236e82e3c",
   "lastOpenFiles": [
-    "site function notes journaling.md",
+    "attachments/tiny lil test image dog.png",
     "Site Function Notes.md",
+    "site function notes journaling.md",
     "test 2-27-26 530pm.md",
     "kiln/New Text Document.txt",
     "kiln/kiln.toml"

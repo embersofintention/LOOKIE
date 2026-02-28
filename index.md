@@ -24,7 +24,13 @@ and while testing, here's a link to my notes on making stuff not break:
 
 
 Here's an image, and i honestly do not know why shit keeps breaking :/
+![[tiny lil test image dog.png]]
+Also I added a doggie
 
 ![[zu aaa.png]]
+
+
+
+
 
 :D
