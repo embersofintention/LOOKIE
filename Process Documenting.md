@@ -189,6 +189,17 @@ I'm gonna try out this method:  https://viscouspotenti.al/posts/gitsync-all-devi
 	* paste content back onto Site Functions Notes page, and see if it breaks again
 * Results: 
 	* now THIS page has the issue????
+* Next thing to try:
+	* Since I'm no longer using Gitless Sync, I don't need the submodule thing.  
+	* Maybe I can just ass-blast this thing into one vault, and solve a whole lot of issues at once. 
+
+
+> [!info] To Be Continued:  Recreating all this jazz in one vault
+> * copy deploy.yml, take out the submodule stuff
+> * see what happens I guess?  
+> ...I gotta stop for now, I went way longer than I planned to today (it's 7:30pm now).   I can pick back up with the documenting and experimenting next time.
+
+
 
 
 
